@@ -1,0 +1,5 @@
+ApolloOS v1.1
+- Initial Release
+- Ships with PixelParts
+- Electra Kernel with LOS changes and some additions
+- Some carriers require a restart after initial setup to be fully working
