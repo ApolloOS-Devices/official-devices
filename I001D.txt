@@ -1,0 +1,4 @@
+ApolloOS v1.2
+- Initial Android 14 Release
+- FBEv2 Encrypted
+- Included AsusParts
