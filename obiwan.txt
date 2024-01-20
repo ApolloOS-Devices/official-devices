@@ -1,2 +1,6 @@
+ApolloOS v1.2
+- Fixed OTA target asserts
+- Some more under the hood changes
+
 ApolloOS v1.1
 - Initial A14 release
