@@ -1,3 +1,7 @@
+ApolloOS v1.2
+- Merged with Jan changes on device and vendor
+- Fix FP scanner lags
+
 ApolloOS v1.1
 - Initial Release
 - Ships with PixelParts
