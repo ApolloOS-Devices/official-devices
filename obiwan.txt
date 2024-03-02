@@ -1,3 +1,7 @@
+ApolloOS v1.3
+- Decommonized vendor
+- Ships with Electra Kernel
+
 ApolloOS v1.2
 - Fixed OTA target asserts
 - Some more under the hood changes
