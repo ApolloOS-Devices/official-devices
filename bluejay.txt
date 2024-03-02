@@ -1,3 +1,7 @@
+ApolloOS v1.3
+- Merged with Feb changes on device and vendor
+- Enabled UDFPS Animations
+
 ApolloOS v1.2
 - Merged with Jan changes on device and vendor
 
