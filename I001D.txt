@@ -1,3 +1,6 @@
+ApolloOS v1.3
+- No device-side changes
+
 ApolloOS v1.2
 - Initial Android 14 Release
 - FBEv2 Encrypted
