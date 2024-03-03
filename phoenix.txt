@@ -1,0 +1,2 @@
+ApolloOS v1.3 - [03.03.2024]
+- Initial release for phoenix
